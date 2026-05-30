@@ -3,7 +3,7 @@ Nama kelompok : ASOY (ASIK COY)
 
 NAMA ANGGOTA : 
 Aldyra Siti Rachmah - 251401063
-Arcellya Abwannur 
+Arcellya Abwannur - 251401066
 Naomi Virginia 
 Putri Fadilah
 Irayani Kalila
