@@ -6,7 +6,7 @@ NAMA ANGGOTA :
 - Arcellya Abwannur - 251401066
 - Naomi Virginia 
 - Putri Fadilah Sari Pohan - 251401081
-- Irayani Kalila
+- Irayani Kalilah Harahap - 251401135
 
 Deskripsi program
 
