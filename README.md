@@ -10,7 +10,7 @@ NAMA ANGGOTA :
 
 Deskripsi program
 
-Program 1 :
+Program 1 : Program Sistem Parkir Mobil Mall Prienal merupakan aplikasi berbasis Command Line Interface (CLI) yang dibuat menggunakan bahasa pemrograman C++ untuk membantu petugas dalam mengelola parkir kendaraan secara sederhana dan efisien. Program ini memungkinkan petugas memasukkan data kendaraan yang masuk berupa plat nomor, merk, dan warna mobil, kemudian menyimpan waktu masuk secara otomatis. Sistem juga dapat menampilkan daftar kendaraan yang sedang terparkir beserta lama waktu parkirnya, menghitung biaya parkir saat kendaraan keluar berdasarkan durasi parkir, serta menghapus data kendaraan setelah pembayaran selesai. Selain itu, program membatasi kapasitas parkir hingga 20 mobil dan menyediakan menu interaktif yang memudahkan petugas dalam melakukan pencatatan kendaraan masuk, melihat data parkir, melakukan transaksi pembayaran, dan keluar dari program.
 
 Program 2 :
 
