@@ -4,8 +4,8 @@ Nama kelompok : ASOY (ASIK COY)
 NAMA ANGGOTA :
 - Aldyra Siti Rachmah - 251401063
 - Arcellya Abwannur - 251401066
-- Naomi Virginia 
 - Putri Fadilah Sari Pohan - 251401081
+- Naomi Virginia Lubis - 251401084
 - Irayani Kalilah Harahap - 251401135
 
 Deskripsi program
