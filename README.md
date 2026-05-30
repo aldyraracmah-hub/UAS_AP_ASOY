@@ -5,7 +5,7 @@ NAMA ANGGOTA :
 - Aldyra Siti Rachmah - 251401063
 - Arcellya Abwannur - 251401066
 - Naomi Virginia 
-- Putri Fadilah
+- Putri Fadilah Sari Pohan - 251401081
 - Irayani Kalila
 
 Deskripsi program
